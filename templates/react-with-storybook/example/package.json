@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/react": "^16.14.15",
-    "@types/react-dom": "^16.9.14",
+    "@types/react-dom": "^17.0.9",
     "@tsconfig/create-react-app": "latest",
     "vite": "latest",
     "vite-preset-react": "latest",
